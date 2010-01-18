@@ -1,0 +1,15 @@
+Comix [Pure Awesome!] is an addon for World of Warcraft (WoW).
+
+Adds /awesome version of "Comix's":http://wow.curse.com/downloads/wow-addons/details/comix-the-return.aspx /fail.
+
+Usage: /awesome <channel> <text>
+
+Where <channel> is a chat channel (such as "guild" or a player's name) and <text> is the message you want to send to <channel>, where all instances of "~~" are replaced with "[Pure Awesome]":http://www.wowhead.com/?spell=58783.
+
+Note that "Comix":http://wow.curse.com/downloads/wow-addons/details/comix-the-return.aspx is a required dependency for this addon.
+
+h2. Links
+
+<b>Download the addon on "Curse":http://wow.curse.com/downloads/wow-addons/details/comix-awesome.aspx<br>
+Please report all bugs and feature requests to the "issue tracker":http://github.com/neocryptek/Comix_Awesome/issues<br>
+More addons by Neocryptek can be found on my "Curse profile":http://wow.curse.com/members/neocryptek.aspx<br>
