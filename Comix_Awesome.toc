@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Comix |r[|cff8080ffPurely Awesome!|r]
+## Notes: /awesome version of /fail for Comix
+## Version: 0.0.1
+## Author: Neocryptek
+## DefaultState: enabled
+## RequiredDeps: Comix
+Awesome.lua
