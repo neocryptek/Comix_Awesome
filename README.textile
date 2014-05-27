@@ -1,3 +1,5 @@
+DISCONTINUED
+
 Comix [Pure Awesome!] is an addon for World of Warcraft (WoW).
 
 Adds /awesome version of "Comix's":http://wow.curse.com/downloads/wow-addons/details/comix-the-return.aspx /fail.
