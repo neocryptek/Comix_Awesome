@@ -1,4 +1,5 @@
-DISCONTINUED
+NOTE: This project has been merged into the official Comix mod.
+This standalone project is therefore obsolete.
 
 Comix [Pure Awesome!] is an addon for World of Warcraft (WoW).
 
